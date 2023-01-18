@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="CompanyName">MadCap Software</Variable>
+  <Variable
+    Comment=""
+    Name="PhoneNumber">858 123 4567</Variable>
+  <Variable
+    Name="Manually"
+    Comment="Manually"
+    Type="DateTimeManual"
+    LastUpdated="2014-12-17T13:03:37.1421318-08:00">"Manual Date": MM dd, yyyy hh:mm tt</Variable>
+  <Variable
+    Name="OnBuild"
+    Comment="OnBuild"
+    Type="DateTime"
+    LastUpdated="2014-12-16T16:28:33.2126745-08:00">"Build Date": MMMM dd, yyyy hh:mm tt</Variable>
+  <Variable
+    Name="OnProjectSave"
+    Comment="OnProjectSave"
+    Type="DateTimeProjectSaved"
+    LastUpdated="2014-12-17T09:51:22.4218747-08:00">"Project Save Date": MMMM dd, yyyy hh:mm tt</Variable>
+  <Variable
+    Name="OnFileCreation"
+    Comment="OnFileCreation"
+    Type="DateTimeFileCreated"
+    LastUpdated="2014-12-17T09:51:57.2689042-08:00">"File Creation Date": MMMM dd, yyyy hh:mm tt</Variable>
+  <Variable
+    Name="Manually2"
+    Comment=""
+    Type="DateTimeManual"
+    LastUpdated="2014-12-17T11:36:16.9237882-08:00">"Manual Date2": MMMM dd, yyyy hh:mm tt</Variable>
+</CatapultVariableSet>

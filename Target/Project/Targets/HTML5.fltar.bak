@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="WebHelp2"
+  Destinations=""
+  
+  GlossaryTermConversion="marked"
+  
+  MasterToc="/Project/TOCs/VerySimple.fltoc"
+  
+  Skin="/Project/Skins/TopNav1.flskn">
+  <PrintedOutput
+    CollapseMargins="true" />
+  <Variables>
+    <Variable
+      Name="MyVariables/PhoneNumber">123 456 7891</Variable>
+  </Variables>
+  <Destinations></Destinations>
+</CatapultTarget>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+  <GlossaryEntry>
+    <Terms>
+      <Term>GlossaryTerm</Term>
+    </Terms>
+    <Definition
+      Link="">This is a glossary term in a slideshow</Definition>
+  </GlossaryEntry>
+</CatapultGlossary>

@@ -1,0 +1,472 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="untranslated">
+  <file
+    xml:space="preserve"
+    original="CH2b.htm"
+    source-language="en-us"
+    MadCap:file-filter=""
+    datatype="xhtml"
+    target-language="es">
+    <header>
+      <skl><external-file
+          href="CH2b.htm.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">28</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">9</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 11 r2 (Lingo release)"
+        tool-name="Lingo"
+        tool-version="11.1.8413.24888"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>third</source><seg-source><mrk
+            mtype="seg"
+            mid="1">third</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xhtml-madcap:concept-term"
+        phase-name="pretrans"
+        translate="no"><source>Toggle</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Toggle</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>long</source><seg-source><mrk
+            mtype="seg"
+            mid="1">long</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>paragraph</source><seg-source><mrk
+            mtype="seg"
+            mid="1">paragraph</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="5"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>dog</source><seg-source><mrk
+            mtype="seg"
+            mid="1">dog</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="6"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>neighborhood</source><seg-source><mrk
+            mtype="seg"
+            mid="1">neighborhood</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="7"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>yesterday</source><seg-source><mrk
+            mtype="seg"
+            mid="1">yesterday</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="8"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>Hollywood</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Hollywood</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="9"
+        restype="x-xhtml-madcap:keyword-term"
+        phase-name="pretrans"
+        translate="no"><source>Garfield</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Garfield</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="10"
+        restype="x-xml-h2"
+        phase-name="pretrans"><source>Title 2 Toggler, Popup,DropdownX2, Expanding,Variables</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Title 2 Toggler, Popup,DropdownX2, Expanding,Variables</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="11"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>This is the <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:keyword term="<sub
+              ctype="x-xhtml-madcap:keyword-term"
+              datatype="xhtml"
+              xid="1" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>third topic contained in Chapter 2.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">This is the <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="1" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>third topic contained in Chapter 2.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="12"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Toggle Me!</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Toggle Me!</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="13"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>This is going to be a very <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:keyword term="<sub
+              ctype="x-xhtml-madcap:keyword-term"
+              datatype="xhtml"
+              xid="3" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>long <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:keyword term="<sub
+              ctype="x-xhtml-madcap:keyword-term"
+              datatype="xhtml"
+              xid="4" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>paragraph. The <ph
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:keyword term="<sub
+              ctype="x-xhtml-madcap:keyword-term"
+              datatype="xhtml"
+              xid="5" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>dog that was taking a spin in the <ph
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:keyword term="<sub
+              ctype="x-xhtml-madcap:keyword-term"
+              datatype="xhtml"
+              xid="6" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>neighborhood <ph
+            id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:keyword term="<sub
+              ctype="x-xhtml-madcap:keyword-term"
+              datatype="xhtml"
+              xid="7" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>yesterday got to <ph
+            id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:keyword term="<sub
+              ctype="x-xhtml-madcap:keyword-term"
+              datatype="xhtml"
+              xid="8" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Hollywood blvd. and had the chance to see the famous <ph
+            id="7" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:keyword term="<sub
+              ctype="x-xhtml-madcap:keyword-term"
+              datatype="xhtml"
+              xid="9" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Garfield, hangout with him and a lot of other <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:glossaryTerm xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>celebrities<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:glossaryTerm&gt;</ept>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">This is going to be a very <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="3" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>long <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="4" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>paragraph.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">The <ph
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="5" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>dog that was taking a spin in the <ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="6" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>neighborhood <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="7" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>yesterday got to <ph
+              id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="8" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Hollywood blvd.</mrk><mrk
+            mtype="protected"
+            mid="4"> </mrk><mrk
+            mtype="seg"
+            mid="5">and had the chance to see the famous <ph
+              id="7" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:keyword term="<sub
+                ctype="x-xhtml-madcap:keyword-term"
+                datatype="xhtml"
+                xid="9" xmlns="urn:oasis:names:tc:xliff:document:1.2" />" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /&gt;</ph>Garfield, hangout with him and a lot of other <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:glossaryTerm xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>celebrities<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:glossaryTerm&gt;</ept>.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="14"
+        restype="x-xml-madcap:popuphead"
+        phase-name="pretrans"><source>Click Me!</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Click Me!</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="15"
+        restype="x-xml-madcap:popupbody"
+        phase-name="pretrans"><source>This is going to be a very long paragraph. The monkey that was taking a spin in the neighborhood yesterday got to Hollywood blvd. and had the chance to see the famous Garfield, hangout with him and a lot of other celebrities.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">This is going to be a very long paragraph.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">The monkey that was taking a spin in the neighborhood yesterday got to Hollywood blvd.</mrk><mrk
+            mtype="protected"
+            mid="4"> </mrk><mrk
+            mtype="seg"
+            mid="5">and had the chance to see the famous Garfield, hangout with him and a lot of other celebrities.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="16"
+        restype="x-xml-madcap:dropdownhotspot"
+        phase-name="pretrans"><source>DropItDownLow</source><seg-source><mrk
+            mtype="seg"
+            mid="1">DropItDownLow</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="17"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>The <bpt
+            id="1"
+            ctype="bold" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;b&gt;</bpt>cat<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/b&gt;</ept> that was taking a <bpt
+            id="2"
+            ctype="italic" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;i&gt;</bpt>spin<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/i&gt;</ept> in the house</source><seg-source><mrk
+            mtype="seg"
+            mid="1">The <bpt
+              id="1"
+              ctype="bold" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;b&gt;</bpt>cat<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/b&gt;</ept> that was taking a <bpt
+              id="2"
+              ctype="italic" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;i&gt;</bpt>spin<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/i&gt;</ept> in the house</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="18"
+        restype="x-xml-madcap:dropdownhead"
+        phase-name="pretrans"><source><bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:dropDownHotspot xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>DropIt<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:dropDownHotspot&gt;</ept>DownLow</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:dropDownHotspot xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>DropIt<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:dropDownHotspot&gt;</ept>DownLow</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="19"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>The <bpt
+            id="1"
+            ctype="bold" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;b&gt;</bpt>cat<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/b&gt;</ept> that was taking a <bpt
+            id="2"
+            ctype="italic" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;i&gt;</bpt>spin<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/i&gt;</ept> in the house</source><seg-source><mrk
+            mtype="seg"
+            mid="1">The <bpt
+              id="1"
+              ctype="bold" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;b&gt;</bpt>cat<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/b&gt;</ept> that was taking a <bpt
+              id="2"
+              ctype="italic" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;i&gt;</bpt>spin<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/i&gt;</ept> in the house</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="20"
+        restype="x-xml-madcap:expandinghead"
+        phase-name="pretrans"><source>This is</source><seg-source><mrk
+            mtype="seg"
+            mid="1">This is</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="21"
+        restype="x-xml-madcap:expandingbody"
+        phase-name="pretrans"><source>chapter two.. Whatever you need, you can find <bpt
+            id="1"
+            ctype="bold" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;b&gt;</bpt>here<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/b&gt;</ept>, Starting with the miniTOC.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">chapter two..</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">Whatever you need, you can find <bpt
+              id="1"
+              ctype="bold" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;b&gt;</bpt>here<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/b&gt;</ept>, Starting with the miniTOC.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="22"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>This project is nice. it's fresh and organized.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">This project is nice.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">it's fresh and organized.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="23"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>This is an Open Type Font. This paragraph should still use this font when exported back from Lingo.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">This is an Open Type Font.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">This paragraph should still use this font when exported back from Lingo.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit></body>
+  </file>
+</xliff>

@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StringMap NeedsRefreshCorrection="false">
+    <Entry Status="Untranslated">
+        <Key>creatures</Key>
+        <OldValue>creatures</OldValue>
+        <NewValue>砻קยด1ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Delete</Key>
+        <OldValue>Delete</OldValue>
+        <NewValue>砻קยด2ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>dog</Key>
+        <OldValue>dog</OldValue>
+        <NewValue>砻קยด3ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Garfield</Key>
+        <OldValue>Garfield</OldValue>
+        <NewValue>砻קยด4ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>heading</Key>
+        <OldValue>heading</OldValue>
+        <NewValue>砻קยด5ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>Hollywood</Key>
+        <OldValue>Hollywood</OldValue>
+        <NewValue>砻קยด6ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>long</Key>
+        <OldValue>long</OldValue>
+        <NewValue>砻קยด7ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>nature</Key>
+        <OldValue>nature</OldValue>
+        <NewValue>砻קยด8ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>neighborhood</Key>
+        <OldValue>neighborhood</OldValue>
+        <NewValue>砻קยด9ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>paragraph</Key>
+        <OldValue>paragraph</OldValue>
+        <NewValue>砻קยด10ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>third</Key>
+        <OldValue>third</OldValue>
+        <NewValue>砻קยด11ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>wolves</Key>
+        <OldValue>wolves</OldValue>
+        <NewValue>砻קยด12ตว融</NewValue>
+    </Entry>
+    <Entry Status="Untranslated">
+        <Key>yesterday</Key>
+        <OldValue>yesterday</OldValue>
+        <NewValue>砻קยด13ตว融</NewValue>
+    </Entry>
+</StringMap>

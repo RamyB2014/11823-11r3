@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+  <ConditionTag
+    Comment=""
+    Name="PrintOnly"
+    BackgroundColor="Blue" />
+  <ConditionTag
+    Comment=""
+    Name="ScreenOnly"
+    BackgroundColor="Red" />
+  <ConditionTag
+    BackgroundColor="#41e741"
+    Name="Export"
+    Comment="This should be excluded" />
+  <ConditionTag
+    BackgroundColor="#fffb00"
+    Name="CHM"
+    Comment="This Condidition is for elements that will not work in CHM output." />
+  <ConditionTag
+    BackgroundColor="#ff595e"
+    Name="HTML5"
+    Comment="This Condidition is for elements that will not work in HTML5 output." />
+  <ConditionTag
+    BackgroundColor="#426ceb"
+    Name="Web"
+    Comment="This Condidition is for elements that will not work in Webhelp output." />
+</CatapultConditionTagSet>

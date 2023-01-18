@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="539" MadCap:lastWidth="986" MadCap:fileTags="FileTag.Ramy" xml:space="preserve">
+    <head>
+    </head>
+    <body>
+        <h2>砻קยด2ตว融</h2>
+        <p>砻קยด3ตว融</p>
+        <p>
+            <MadCap:snippetText src="../Resources/Snippets/Snippet.flsnp" />
+        </p>
+        <p>砻קยด4ตว融</p>
+        <p>砻קยด5ตว融<script type="text/javascript">/*<![CDATA[*/alert("Javescript here!");/*]]>*/</script></p>
+        <MadCap:topicToolbarProxy style="mc-topic-toolbar-items: ;" />
+        <MadCap:tocProxy />
+        <MadCap:miniTocProxy />
+        <MadCap:indexProxy />
+        <MadCap:glossaryProxy />
+        <MadCap:endnotesProxy />
+        <MadCap:conceptsProxy />
+        <MadCap:listOfProxy style="mc-list-of-tag: h2;mc-list-of-paragraph-class: garfield;" />
+        <MadCap:relationshipsProxy />
+    </body>
+</html>

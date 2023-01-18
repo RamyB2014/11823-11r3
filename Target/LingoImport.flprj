@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultProject Version="1" MasterStylesheet="/Content/Resources/Stylesheets/Styles.css" Comment="This template, like the “Book” template, provides several starter topics and other files to help get you started with your own project, with Adobe PDF as the primary output format. It is a good choice if you plan to generate print-based documentation primarily, although you can also generate online output from the project. It contains a bit more explanatory text than the “Book” template. If you want to generate print-based output, you might try both templates and use the one you like best." SourceControlBound="false" MasterToc="/Project/TOCs/Web.fltoc" xml:space="preserve">
+</CatapultProject>

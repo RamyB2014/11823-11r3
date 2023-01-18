@@ -1,0 +1,741 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="untranslated">
+  <file
+    xml:space="preserve"
+    original="CH1b.htm"
+    source-language="en-us"
+    MadCap:file-filter=""
+    datatype="xhtml"
+    target-language="es">
+    <header>
+      <skl><external-file
+          href="CH1b.htm.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">63</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">1</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 11 r2 (Lingo release)"
+        tool-name="Lingo"
+        tool-version="11.1.8413.24888"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xhtml-madcap:footnote"
+        phase-name="pretrans"><source>I’m including samples of the custom lists that should come back from lingo as they’re in the source project.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">I’m including samples of the custom lists that should come back from lingo as they’re in the source project.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xml-h2"
+        phase-name="pretrans"><source>Title 1b - Custom lists</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Title 1b - Custom lists</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>This project is nice. it's fresh and organized.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">This project is nice.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">it's fresh and organized.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Here are some custom lists:</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Here are some custom lists:</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="5"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Special characters custom list (CL1)</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Special characters custom list (CL1)</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="6"
+        restype="x-xml-li"
+        phase-name="pretrans"><source>one<bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;&lt;li&gt;</bpt>two<bpt
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;</bpt><bpt
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;li&gt;</bpt>three<ept
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;</ept><bpt
+            id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;li&gt;</bpt>threeB<bpt
+            id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;&lt;li&gt;</bpt>four<bpt
+            id="8" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;&lt;li&gt;</bpt>five<bpt
+            id="10" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;&lt;li&gt;</bpt>Six<bpt
+            id="12" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;&lt;li&gt;</bpt>Seven<bpt
+            id="14" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;&lt;li&gt;</bpt>Eight<bpt
+            id="16" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;&lt;li&gt;</bpt>nine<bpt
+            id="18" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;</bpt><bpt
+            id="19" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;li&gt;</bpt>ten<ept
+            id="19" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;</ept><bpt
+            id="20" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;li&gt;</bpt>tenb<ept
+            id="20" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;</ept><ept
+            id="18" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/ul&gt;</ept><ept
+            id="16" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ul&gt;</ept><ept
+            id="14" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ul&gt;</ept><ept
+            id="12" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ul&gt;</ept><ept
+            id="10" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ul&gt;</ept><ept
+            id="8" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ul&gt;</ept><ept
+            id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ul&gt;</ept><ept
+            id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;</ept><ept
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/ul&gt;</ept><ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ul&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1">one</mrk><mrk
+            mtype="seg"
+            mid="2"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;&lt;li&gt;</bpt>two</mrk><mrk
+            mtype="seg"
+            mid="3"><bpt
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;</bpt></mrk><mrk
+            mtype="seg"
+            mid="4"><bpt
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;li&gt;</bpt>three<ept
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;</ept></mrk><mrk
+            mtype="seg"
+            mid="5"><bpt
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;li&gt;</bpt>threeB</mrk><mrk
+            mtype="seg"
+            mid="6"><bpt
+              id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;&lt;li&gt;</bpt>four</mrk><mrk
+            mtype="seg"
+            mid="7"><bpt
+              id="8" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;&lt;li&gt;</bpt>five</mrk><mrk
+            mtype="seg"
+            mid="8"><bpt
+              id="10" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;&lt;li&gt;</bpt>Six</mrk><mrk
+            mtype="seg"
+            mid="9"><bpt
+              id="12" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;&lt;li&gt;</bpt>Seven</mrk><mrk
+            mtype="seg"
+            mid="10"><bpt
+              id="14" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;&lt;li&gt;</bpt>Eight</mrk><mrk
+            mtype="seg"
+            mid="11"><bpt
+              id="16" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;&lt;li&gt;</bpt>nine</mrk><mrk
+            mtype="seg"
+            mid="12"><bpt
+              id="18" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;</bpt></mrk><mrk
+            mtype="seg"
+            mid="13"><bpt
+              id="19" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;li&gt;</bpt>ten<ept
+              id="19" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;</ept></mrk><mrk
+            mtype="seg"
+            mid="14"><bpt
+              id="20" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;li&gt;</bpt>tenb<ept
+              id="20" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;</ept><ept
+              id="18" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/ul&gt;</ept><ept
+              id="16" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ul&gt;</ept><ept
+              id="14" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ul&gt;</ept><ept
+              id="12" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ul&gt;</ept><ept
+              id="10" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ul&gt;</ept><ept
+              id="8" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ul&gt;</ept><ept
+              id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ul&gt;</ept><ept
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;</ept><ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/ul&gt;</ept><ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ul&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="6"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="7"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="8"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="9"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="10"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="11"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="12"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="13"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="14"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="7"
+        restype="x-xml-div"
+        phase-name="pretrans"><source>Images custom list (CL2)</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Images custom list (CL2)</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="8"
+        restype="x-xml-li"
+        phase-name="pretrans"><source>one<bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;&lt;li&gt;</bpt>two<bpt
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;</bpt><bpt
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;li&gt;</bpt>three<ept
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;</ept><bpt
+            id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;li&gt;</bpt>threeB<bpt
+            id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;&lt;li&gt;</bpt>four<bpt
+            id="8" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;&lt;li&gt;</bpt>five<bpt
+            id="10" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;&lt;li&gt;</bpt>Six<bpt
+            id="12" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;&lt;li&gt;</bpt>Seven<bpt
+            id="14" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;&lt;li&gt;</bpt>Eight<bpt
+            id="16" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;&lt;li&gt;</bpt>nine<bpt
+            id="18" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;</bpt><bpt
+            id="19" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;li&gt;</bpt>ten<ept
+            id="19" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;</ept><bpt
+            id="20" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;li&gt;</bpt>tenb<ept
+            id="20" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;</ept><ept
+            id="18" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/ul&gt;</ept><ept
+            id="16" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ul&gt;</ept><ept
+            id="14" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ul&gt;</ept><ept
+            id="12" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ul&gt;</ept><ept
+            id="10" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ul&gt;</ept><ept
+            id="8" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ul&gt;</ept><ept
+            id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ul&gt;</ept><ept
+            id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;</ept><ept
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/ul&gt;</ept><ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ul&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1">one</mrk><mrk
+            mtype="seg"
+            mid="2"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;&lt;li&gt;</bpt>two</mrk><mrk
+            mtype="seg"
+            mid="3"><bpt
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;</bpt></mrk><mrk
+            mtype="seg"
+            mid="4"><bpt
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;li&gt;</bpt>three<ept
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;</ept></mrk><mrk
+            mtype="seg"
+            mid="5"><bpt
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;li&gt;</bpt>threeB</mrk><mrk
+            mtype="seg"
+            mid="6"><bpt
+              id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;&lt;li&gt;</bpt>four</mrk><mrk
+            mtype="seg"
+            mid="7"><bpt
+              id="8" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;&lt;li&gt;</bpt>five</mrk><mrk
+            mtype="seg"
+            mid="8"><bpt
+              id="10" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;&lt;li&gt;</bpt>Six</mrk><mrk
+            mtype="seg"
+            mid="9"><bpt
+              id="12" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;&lt;li&gt;</bpt>Seven</mrk><mrk
+            mtype="seg"
+            mid="10"><bpt
+              id="14" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;&lt;li&gt;</bpt>Eight</mrk><mrk
+            mtype="seg"
+            mid="11"><bpt
+              id="16" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;&lt;li&gt;</bpt>nine</mrk><mrk
+            mtype="seg"
+            mid="12"><bpt
+              id="18" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;</bpt></mrk><mrk
+            mtype="seg"
+            mid="13"><bpt
+              id="19" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;li&gt;</bpt>ten<ept
+              id="19" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;</ept></mrk><mrk
+            mtype="seg"
+            mid="14"><bpt
+              id="20" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;li&gt;</bpt>tenb<ept
+              id="20" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;</ept><ept
+              id="18" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/ul&gt;</ept><ept
+              id="16" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ul&gt;</ept><ept
+              id="14" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ul&gt;</ept><ept
+              id="12" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ul&gt;</ept><ept
+              id="10" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ul&gt;</ept><ept
+              id="8" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ul&gt;</ept><ept
+              id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ul&gt;</ept><ept
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;</ept><ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/ul&gt;</ept><ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ul&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="6"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="7"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="8"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="9"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="10"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="11"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="12"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="13"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="14"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="9"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Special font custom list (CL3)</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Special font custom list (CL3)</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="10"
+        restype="x-xml-li"
+        phase-name="pretrans"><source>one<bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ol&gt;&lt;li&gt;</bpt>two<bpt
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ol&gt;</bpt><bpt
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;li&gt;</bpt>three<ept
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;</ept><bpt
+            id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;li&gt;</bpt>threeB<bpt
+            id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ol&gt;&lt;li&gt;</bpt>four<bpt
+            id="8" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ol&gt;&lt;li&gt;</bpt>five<bpt
+            id="10" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ol&gt;&lt;li&gt;</bpt>Six<bpt
+            id="12" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ol&gt;&lt;li&gt;</bpt>Seven<bpt
+            id="14" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ol&gt;&lt;li&gt;</bpt>Eight<bpt
+            id="16" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ol&gt;&lt;li&gt;</bpt>nine<bpt
+            id="18" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ol&gt;</bpt><bpt
+            id="19" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;li&gt;</bpt>ten<ept
+            id="19" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;</ept><bpt
+            id="20" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;li&gt;</bpt>tenb<ept
+            id="20" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;</ept><ept
+            id="18" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/ol&gt;</ept><ept
+            id="16" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ol&gt;</ept><ept
+            id="14" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ol&gt;</ept><ept
+            id="12" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ol&gt;</ept><ept
+            id="10" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ol&gt;</ept><ept
+            id="8" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ol&gt;</ept><ept
+            id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ol&gt;</ept><ept
+            id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;</ept><ept
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/ol&gt;</ept><ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ol&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1">one<bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ol&gt;&lt;li&gt;</bpt>two<bpt
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ol&gt;</bpt></mrk><mrk
+            mtype="seg"
+            mid="2"><bpt
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;li&gt;</bpt>three<ept
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;</ept></mrk><mrk
+            mtype="seg"
+            mid="3"><bpt
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;li&gt;</bpt>threeB<bpt
+              id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ol&gt;&lt;li&gt;</bpt>four<bpt
+              id="8" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ol&gt;&lt;li&gt;</bpt>five<bpt
+              id="10" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ol&gt;&lt;li&gt;</bpt>Six<bpt
+              id="12" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ol&gt;&lt;li&gt;</bpt>Seven<bpt
+              id="14" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ol&gt;&lt;li&gt;</bpt>Eight<bpt
+              id="16" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ol&gt;&lt;li&gt;</bpt>nine<bpt
+              id="18" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ol&gt;</bpt></mrk><mrk
+            mtype="seg"
+            mid="4"><bpt
+              id="19" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;li&gt;</bpt>ten<ept
+              id="19" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;</ept></mrk><mrk
+            mtype="seg"
+            mid="5"><bpt
+              id="20" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;li&gt;</bpt>tenb<ept
+              id="20" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;</ept><ept
+              id="18" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/ol&gt;</ept><ept
+              id="16" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ol&gt;</ept><ept
+              id="14" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ol&gt;</ept><ept
+              id="12" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ol&gt;</ept><ept
+              id="10" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ol&gt;</ept><ept
+              id="8" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ol&gt;</ept><ept
+              id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ol&gt;</ept><ept
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;</ept><ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/ol&gt;</ept><ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ol&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="11"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Mixed custom lists (CL1CL3)</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Mixed custom lists (CL1CL3)</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="12"
+        restype="x-xml-li"
+        phase-name="pretrans"><source>one<bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;&lt;li&gt;</bpt>two<bpt
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;</bpt><bpt
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;li&gt;</bpt>three<ept
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;</ept><bpt
+            id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;li&gt;</bpt>threeB<bpt
+            id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;&lt;li&gt;</bpt>four<bpt
+            id="8" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;&lt;li&gt;</bpt>five<bpt
+            id="10" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ol class="CL3"&gt;&lt;li&gt;</bpt>Six<bpt
+            id="12" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ol&gt;&lt;li&gt;</bpt>Seven<bpt
+            id="14" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ol&gt;&lt;li&gt;</bpt>Eight<bpt
+            id="16" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ol&gt;&lt;li&gt;</bpt>nine<bpt
+            id="18" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ol&gt;</bpt><bpt
+            id="19" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;li&gt;</bpt>ten<ept
+            id="19" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;</ept><bpt
+            id="20" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;li&gt;</bpt>tenb<ept
+            id="20" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;</ept><ept
+            id="18" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/ol&gt;</ept><ept
+            id="16" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ol&gt;</ept><ept
+            id="14" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ol&gt;</ept><ept
+            id="12" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ol&gt;</ept><ept
+            id="10" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ol&gt;</ept><ept
+            id="8" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ul&gt;</ept><ept
+            id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ul&gt;</ept><ept
+            id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;</ept><ept
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/ul&gt;</ept><ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ul&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1">one</mrk><mrk
+            mtype="seg"
+            mid="2"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;&lt;li&gt;</bpt>two</mrk><mrk
+            mtype="seg"
+            mid="3"><bpt
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;</bpt></mrk><mrk
+            mtype="seg"
+            mid="4"><bpt
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;li&gt;</bpt>three<ept
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;</ept></mrk><mrk
+            mtype="seg"
+            mid="5"><bpt
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;li&gt;</bpt>threeB</mrk><mrk
+            mtype="seg"
+            mid="6"><bpt
+              id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;&lt;li&gt;</bpt>four</mrk><mrk
+            mtype="seg"
+            mid="7"><bpt
+              id="8" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;&lt;li&gt;</bpt>five<bpt
+              id="10" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ol class="CL3"&gt;&lt;li&gt;</bpt>Six<bpt
+              id="12" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ol&gt;&lt;li&gt;</bpt>Seven<bpt
+              id="14" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ol&gt;&lt;li&gt;</bpt>Eight<bpt
+              id="16" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ol&gt;&lt;li&gt;</bpt>nine<bpt
+              id="18" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ol&gt;</bpt></mrk><mrk
+            mtype="seg"
+            mid="8"><bpt
+              id="19" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;li&gt;</bpt>ten<ept
+              id="19" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;</ept></mrk><mrk
+            mtype="seg"
+            mid="9"><bpt
+              id="20" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;li&gt;</bpt>tenb<ept
+              id="20" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;</ept><ept
+              id="18" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/ol&gt;</ept><ept
+              id="16" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ol&gt;</ept><ept
+              id="14" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ol&gt;</ept><ept
+              id="12" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ol&gt;</ept><ept
+              id="10" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ol&gt;</ept><ept
+              id="8" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ul&gt;</ept><ept
+              id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ul&gt;</ept><ept
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;</ept><ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/ul&gt;</ept><ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ul&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="6"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="7"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="8"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="9"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="13"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Mixed custom lists (CL3CL2)</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Mixed custom lists (CL3CL2)</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="14"
+        restype="x-xml-li"
+        phase-name="pretrans"><source>one<bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ol&gt;&lt;li&gt;</bpt>two<bpt
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ol&gt;</bpt><bpt
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;li&gt;</bpt>three<ept
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;</ept><bpt
+            id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;li&gt;</bpt>threeB<bpt
+            id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ol&gt;&lt;li&gt;</bpt>four<bpt
+            id="8" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ol&gt;&lt;li&gt;</bpt>five<bpt
+            id="10" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul class="CL2"&gt;&lt;li&gt;</bpt>Six<bpt
+            id="12" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;&lt;li&gt;</bpt>Seven<bpt
+            id="14" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;&lt;li&gt;</bpt>Eight<bpt
+            id="16" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;&lt;li&gt;</bpt>nine<bpt
+            id="18" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;</bpt><bpt
+            id="19" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;li&gt;</bpt>ten<ept
+            id="19" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;</ept><bpt
+            id="20" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;li&gt;</bpt>tenb<ept
+            id="20" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;</ept><ept
+            id="18" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/ul&gt;</ept><ept
+            id="16" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ul&gt;</ept><ept
+            id="14" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ul&gt;</ept><ept
+            id="12" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ul&gt;</ept><ept
+            id="10" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ul&gt;</ept><ept
+            id="8" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ol&gt;</ept><ept
+            id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ol&gt;</ept><ept
+            id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;</ept><ept
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/ol&gt;</ept><ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ol&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1">one<bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ol&gt;&lt;li&gt;</bpt>two<bpt
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ol&gt;</bpt></mrk><mrk
+            mtype="seg"
+            mid="2"><bpt
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;li&gt;</bpt>three<ept
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;</ept></mrk><mrk
+            mtype="seg"
+            mid="3"><bpt
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;li&gt;</bpt>threeB<bpt
+              id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ol&gt;&lt;li&gt;</bpt>four<bpt
+              id="8" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ol&gt;&lt;li&gt;</bpt>five</mrk><mrk
+            mtype="seg"
+            mid="4"><bpt
+              id="10" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul class="CL2"&gt;&lt;li&gt;</bpt>Six</mrk><mrk
+            mtype="seg"
+            mid="5"><bpt
+              id="12" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;&lt;li&gt;</bpt>Seven</mrk><mrk
+            mtype="seg"
+            mid="6"><bpt
+              id="14" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;&lt;li&gt;</bpt>Eight</mrk><mrk
+            mtype="seg"
+            mid="7"><bpt
+              id="16" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;&lt;li&gt;</bpt>nine</mrk><mrk
+            mtype="seg"
+            mid="8"><bpt
+              id="18" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ul&gt;</bpt></mrk><mrk
+            mtype="seg"
+            mid="9"><bpt
+              id="19" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;li&gt;</bpt>ten<ept
+              id="19" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;</ept></mrk><mrk
+            mtype="seg"
+            mid="10"><bpt
+              id="20" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;li&gt;</bpt>tenb<ept
+              id="20" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;</ept><ept
+              id="18" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/ul&gt;</ept><ept
+              id="16" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ul&gt;</ept><ept
+              id="14" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ul&gt;</ept><ept
+              id="12" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ul&gt;</ept><ept
+              id="10" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ul&gt;</ept><ept
+              id="8" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ol&gt;</ept><ept
+              id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ol&gt;</ept><ept
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;</ept><ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/ol&gt;</ept><ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/li&gt;&lt;/ol&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="6"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="7"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="8"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="9"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="10"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit></body>
+  </file>
+</xliff>

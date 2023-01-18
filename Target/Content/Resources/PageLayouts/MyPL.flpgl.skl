@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="Left" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="left" PaddingLeft="1.00in" PaddingRight="1.50in" PaddingTop="1in" PaddingBottom="1in">
+        <Frame Flow="header" Anchors="" Right="0in" Bottom="9.25in" X="0in" Y="-0.75in" ColumnCount="1" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" Height="0.5in" VerticalAlign="bottom" TextAlign="left" BorderBottomStyle="solid" BorderBottomWidth="3pt" BorderBottomColor="#000000" Width="6in">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="margin-right: 0px;margin-left: 0px;">砻קยด1ตว融</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="body" ColumnCount="1" Anchors="" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="0in" Y="0in" Right="0in" Bottom="0in" Width="6in" Height="9in">
+        </Frame>
+        <Frame Flow="footer" Anchors="" Right="0in" X="0in" Y="9.25in" ColumnCount="1" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" FlowIndex="1" Height="0.5in" VerticalAlign="middle" TextAlign="center" BorderTopStyle="solid" BorderTopWidth="3pt" BorderTopColor="#000000" Width="6in" Bottom="-72px">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p>- <MadCap:variable xhtml:name="System.PageNumber" /> -</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="-57px" Y="-1px" Width="54px" Height="38px" Flow="decoration0" Right="579px" Bottom="827px" BorderLeftStyle="solid" BorderLeftWidth="1px" BorderLeftColor="#000000" BorderRightStyle="solid" BorderRightWidth="1px" BorderRightColor="#000000" BorderTopStyle="solid" BorderTopWidth="1px" BorderTopColor="#000000" BorderBottomStyle="solid" BorderBottomWidth="1px" BorderBottomColor="#000000" Anchors="">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>砻קยด2ตว融</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+    <Page Name="FL" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="firstleft" PaddingLeft="1in" PaddingRight="1.5in" PaddingTop="1in" PaddingBottom="1in">
+        <Frame Flow="body" ColumnCount="1" Anchors="" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="0in" Y="0in" Right="0in" Bottom="0in" Width="6in" Height="9in">
+        </Frame>
+        <Frame Flow="footer" Anchors="" Right="0in" X="0in" Y="9.25in" ColumnCount="1" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" FlowIndex="1" Height="0.5in" VerticalAlign="middle" TextAlign="center" BorderTopStyle="solid" BorderTopWidth="3pt" BorderTopColor="#000000" Width="6in" Bottom="-72px">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p>- <MadCap:variable xhtml:name="System.PageNumber" /> -</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="-57px" Y="-1px" Width="54px" Height="38px" Flow="decoration0" Right="579px" Bottom="827px" BorderLeftStyle="solid" BorderLeftWidth="1px" BorderLeftColor="#000000" BorderRightStyle="solid" BorderRightWidth="1px" BorderRightColor="#000000" BorderTopStyle="solid" BorderTopWidth="1px" BorderTopColor="#000000" BorderBottomStyle="solid" BorderBottomWidth="1px" BorderBottomColor="#000000" Anchors="">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>砻קยด3ตว融</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+    <Page Name="Title" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="title" PaddingLeft="1in" PaddingRight="1.5in" PaddingTop="1in" PaddingBottom="1in">
+        <Frame Flow="body" ColumnCount="1" Anchors="" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="0in" Y="0in" Right="0in" Bottom="0in" Width="6in" Height="9in">
+        </Frame>
+    </Page>
+    <Page Name="Right" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="right" PaddingLeft="1.50in" PaddingRight="1.00in" PaddingTop="1in" PaddingBottom="1in">
+        <Frame Flow="header" Anchors="" Right="0in" Bottom="9.25in" X="0in" Y="-0.75in" ColumnCount="1" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" Height="0.5in" BorderBottomStyle="solid" BorderBottomWidth="3pt" BorderBottomColor="#000000" TextAlign="right" VerticalAlign="bottom" Width="6in">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p><MadCap:variable xhtml:name="Heading.Level1" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="body" ColumnCount="1" Anchors="" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="0in" Y="0in" Right="0in" Bottom="0in" Width="6in" Height="9in">
+        </Frame>
+        <Frame Flow="footer" Anchors="" Right="0in" X="0in" Y="9.25in" ColumnCount="1" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" FlowIndex="1" Height="0.5in" VerticalAlign="middle" TextAlign="center" BorderTopStyle="solid" BorderTopWidth="3pt" BorderTopColor="#000000" Width="6in" Bottom="-72px">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p>- <MadCap:variable xhtml:name="System.PageNumber" /> -</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="577px" Y="3px" Width="54px" Height="38px" Flow="decoration0" Right="-55px" Bottom="823px" BorderLeftStyle="solid" BorderLeftWidth="1px" BorderLeftColor="#000000" BorderRightStyle="solid" BorderRightWidth="1px" BorderRightColor="#000000" BorderTopStyle="solid" BorderTopWidth="1px" BorderTopColor="#000000" BorderBottomStyle="solid" BorderBottomWidth="1px" BorderBottomColor="#000000" Anchors="">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>砻קยด4ตว融</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+    <Page Name="FR" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="firstright" PaddingLeft="1.5in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in">
+        <Frame Flow="body" ColumnCount="1" Anchors="" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="0in" Y="0in" Right="0in" Bottom="0in" Width="6in" Height="9in">
+        </Frame>
+        <Frame Flow="footer" Anchors="" Right="0in" X="0in" Y="9.25in" ColumnCount="1" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" FlowIndex="1" Height="0.5in" VerticalAlign="middle" TextAlign="center" BorderTopStyle="solid" BorderTopWidth="3pt" BorderTopColor="#000000" Width="6in" Bottom="-72px">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p>- <MadCap:variable xhtml:name="System.PageNumber" /> -</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="579px" Y="0px" Width="54px" Height="38px" Flow="decoration0" Right="-57px" Bottom="826px" BorderLeftStyle="solid" BorderLeftWidth="1px" BorderLeftColor="#000000" BorderRightStyle="solid" BorderRightWidth="1px" BorderRightColor="#000000" BorderTopStyle="solid" BorderTopWidth="1px" BorderTopColor="#000000" BorderBottomStyle="solid" BorderBottomWidth="1px" BorderBottomColor="#000000" Anchors="">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>砻קยด5ตว融</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+    <Page Name="First" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="first" PaddingLeft="1.5in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in">
+        <Frame Flow="footer" Anchors="" Right="0in" X="0in" Y="9.25in" ColumnCount="1" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" FlowIndex="1" Height="0.5in" BorderTopStyle="solid" BorderTopWidth="3pt" BorderTopColor="#000000" VerticalAlign="middle" TextAlign="center" Width="6in" Bottom="-72px">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p>- <MadCap:variable xhtml:name="System.PageNumber" /> -</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="body" ColumnCount="1" Anchors="" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="0in" Y="0in" Right="0in" Bottom="0in" Width="6in" Height="9in">
+        </Frame>
+        <Frame X="579px" Y="1px" Width="54px" Height="38px" Flow="decoration0" Right="-57px" Bottom="825px" BorderLeftStyle="solid" BorderLeftWidth="1px" BorderLeftColor="#000000" BorderRightStyle="solid" BorderRightWidth="1px" BorderRightColor="#000000" BorderTopStyle="solid" BorderTopWidth="1px" BorderTopColor="#000000" BorderBottomStyle="solid" BorderBottomWidth="1px" BorderBottomColor="#000000" Anchors="">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>砻קยด6ตว融</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+    <Page Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="empty" PaddingLeft="1.5in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" Name="Empty">
+    </Page>
+</PageStyles>

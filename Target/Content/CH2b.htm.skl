@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="552" MadCap:lastWidth="1222" MadCap:fileTags="FileTag.Christian" xml:space="preserve">
+    <head>
+    </head>
+    <body>
+        <h2>砻קยด10ตว融</h2>
+        <p>砻קยด11ตว融</p>
+        <p><MadCap:toggler targets="t2">
+                <MadCap:concept term="Toggle" />砻קยด12ตว融</MadCap:toggler></p>
+        <p MadCap:targetName="t2">砻קยด13ตว融</p>
+        <p>&#160;</p>
+        <p>
+            <MadCap:popup>
+                <MadCap:popupHead>砻קยด14ตว融</MadCap:popupHead>
+                <MadCap:popupBody>砻קยด15ตว融</MadCap:popupBody>
+            </MadCap:popup>
+        </p>
+        <p>&#160;</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>砻קยด16ตว融</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>砻קยด17ตว融</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>砻קยด18ตว融</MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>砻קยด19ตว融</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p>&#160;</p>
+        <p>
+            <MadCap:expanding>
+                <MadCap:expandingHead>砻קยด20ตว融</MadCap:expandingHead>
+                <MadCap:expandingBody>砻קยด21ตว融</MadCap:expandingBody>
+            </MadCap:expanding>
+        </p>
+        <p>砻קยด22ตว融</p>
+        <p><MadCap:variable name="MyVariables.CompanyName" />
+        </p>
+        <p><MadCap:variable name="MyVariables.PhoneNumber" />
+        </p>
+        <p style="font-family: 'Bickham Script Pro Semibold';font-size: 20pt;font-style: normal;font-weight: normal;text-decoration: none;">砻קยด23ตว融</p>
+        <p>&#160;</p>
+    </body>
+</html>

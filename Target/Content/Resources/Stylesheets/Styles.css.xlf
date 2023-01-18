@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="untranslated">
+  <file
+    xml:space="preserve"
+    original="Styles.css"
+    source-language="en-us"
+    MadCap:file-filter=""
+    datatype="x-css"
+    target-language="es">
+    <header>
+      <skl><external-file
+          href="Styles.css.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">10</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">0</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 11 r2 (Lingo release)"
+        tool-name="Lingo"
+        tool-version="11.1.8413.24888"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-content"
+        phase-name="pretrans"><source>1</source><seg-source><mrk
+            mtype="seg"
+            mid="1">1</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="2"
+        restype="x-content"
+        phase-name="pretrans"><source>2</source><seg-source><mrk
+            mtype="seg"
+            mid="1">2</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="3"
+        restype="x-content"
+        phase-name="pretrans"><source>3</source><seg-source><mrk
+            mtype="seg"
+            mid="1">3</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="4"
+        restype="x-content"
+        phase-name="pretrans"><source>4</source><seg-source><mrk
+            mtype="seg"
+            mid="1">4</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="5"
+        restype="x-content"
+        phase-name="pretrans"><source>5</source><seg-source><mrk
+            mtype="seg"
+            mid="1">5</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="6"
+        restype="x-content"
+        phase-name="pretrans"><source>6</source><seg-source><mrk
+            mtype="seg"
+            mid="1">6</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="7"
+        restype="x-content"
+        phase-name="pretrans"><source>7</source><seg-source><mrk
+            mtype="seg"
+            mid="1">7</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="8"
+        restype="x-content"
+        phase-name="pretrans"><source>8</source><seg-source><mrk
+            mtype="seg"
+            mid="1">8</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="9"
+        restype="x-content"
+        phase-name="pretrans"><source>9</source><seg-source><mrk
+            mtype="seg"
+            mid="1">9</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="10"
+        restype="x-content"
+        phase-name="pretrans"><source>10</source><seg-source><mrk
+            mtype="seg"
+            mid="1">10</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit></body>
+  </file>
+</xliff>

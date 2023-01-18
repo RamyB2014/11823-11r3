@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="215" MadCap:lastWidth="1316" xml:space="preserve">
+    <head>
+    </head>
+    <body>
+        <h1>砻קยด1ตว融</h1>
+        <p>砻קยด2ตว融</p>
+        <p><MadCap:variable name="NewVarSet.Manually" manualValue="2014-12-17T11:55:29.7084906-08:00" />
+        </p>
+        <p><MadCap:variable name="NewVarSet.OnBuild" />
+        </p>
+        <p><MadCap:variable name="NewVarSet.OnFileCreation" />
+        </p>
+        <p><MadCap:variable name="NewVarSet.OnProjectSave" />
+        </p>
+    </body>
+</html>

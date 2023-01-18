@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Title 1a"
+    Link="/Content/C1/CH1a.htm" />
+  <TocEntry
+    Title="Title 1b - Custom lists"
+    Link="/Content/C1/CH1b.htm"></TocEntry>
+  <TocEntry
+    Title="Chapter 2: MiniTOC,Avi,QR,Table,NUM,CH.s, Space,Hyp1,Hyp2, Footnotes"
+    Link="/Content/CH2.htm" />
+  <TocEntry
+    Title="Garfield Topic"
+    Link="/Content/CH2a.htm" />
+  <TocEntry
+    Title="Title 2 Toggler, Popup,DropdownX2, Expanding,Variables"
+    Link="/Content/CH2b.htm" />
+  <TocEntry
+    Title="ImageMap_Popup window" />
+  <TocEntry
+    Title="Index"
+    Link="/Content/Index.htm" />
+  <TocEntry
+    Title="Glossary"
+    Link="/Content/Glossary.htm" />
+</CatapultToc>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+    <Variable Comment="" Name="CompanyName">砻קยด1ตว融</Variable>
+    <Variable Comment="" Name="PhoneNumber">砻קยด2ตว融</Variable>
+    <Variable Name="Manually" Comment="Manually" Type="DateTimeManual" LastUpdated="2014-12-17T13:03:37.1421318-08:00">砻קยด3ตว融</Variable>
+    <Variable Name="OnBuild" Comment="OnBuild" Type="DateTime" LastUpdated="2014-12-16T16:28:33.2126745-08:00">砻קยด4ตว融</Variable>
+    <Variable Name="OnProjectSave" Comment="OnProjectSave" Type="DateTimeProjectSaved" LastUpdated="2014-12-17T09:51:22.4218747-08:00">砻קยด5ตว融</Variable>
+    <Variable Name="OnFileCreation" Comment="OnFileCreation" Type="DateTimeFileCreated" LastUpdated="2014-12-17T09:51:57.2689042-08:00">砻קยด6ตว融</Variable>
+    <Variable Name="Manually2" Comment="" Type="DateTimeManual" LastUpdated="2014-12-17T11:36:16.9237882-08:00">砻קยด7ตว融</Variable>
+</CatapultVariableSet>

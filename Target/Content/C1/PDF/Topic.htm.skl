@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="5" MadCap:lastHeight="2701" MadCap:lastWidth="1514" xml:space="preserve">
+    <head>
+        <link href="Resources/Stylesheets/Styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>砻קยด13ตว融</h1>
+        <p>
+            <img src="../../Resources/Images/Vector.pdf#1" style="width: 377px;height: 487px;" title="砻קยด1ตว融" alt="砻קยด2ตว融" tabindex="1" />
+        </p>
+        <h2>砻קยด14ตว融</h2>
+        <ul>
+            <li>
+                <img src="../../Resources/Images/Vector.pdf#2" style="width: 228px;height: 294px;" title="砻קยด3ตว融" alt="砻קยด4ตว融" tabindex="2" />
+            </li>
+        </ul>
+        <h2>砻קยด15ตว融</h2>
+        <p>
+            <MadCap:snippetText src="../../Resources/Snippets/PDFSnippet.flsnp" />
+        </p>
+        <h3>砻קยด16ตว融</h3>
+        <p>
+            <img src="../../Resources/Images/Vector.pdf#1" style="width: 377px;height: 487px;" MadCap:conditions="Default.PrintOnly" title="砻קยด5ตว融" alt="砻קยด6ตว融" tabindex="3" />
+        </p>
+        <table style="width: 100%;border-left-style: solid;border-left-width: 1px;border-left-color: #0000ff;border-right-style: solid;border-right-width: 1px;border-right-color: #0000ff;border-top-style: solid;border-top-width: 1px;border-top-color: #0000ff;border-bottom-style: solid;border-bottom-width: 1px;border-bottom-color: #0000ff;border-collapse: collapse;">
+            <col style="width: 578px;" />
+            <col />
+            <tbody>
+                <tr>
+                    <td>
+                        <img src="../../Resources/Images/Vector.pdf#1" style="width: 142px;height: 182px;" tabindex="4" title="砻קยด7ตว融" alt="砻קยด8ตว融" />
+                    </td>
+                    <td>砻קยด17ตว融</td>
+                </tr>
+                <tr>
+                    <td>
+                        <img src="../../Resources/Images/NewFolder/Vector.pdf#35" style="width: 119px;height: 153px;" title="砻קยด9ตว融" alt="砻קยด10ตว融" tabindex="5" />
+                    </td>
+                    <td>
+                        <img src="../../Resources/Images/ghost1SVG.svg" style="mc-thumbnail: hover;" title="砻קยด11ตว融" alt="砻קยด12ตว融" tabindex="6" />
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>&#160;</p>
+    </body>
+</html>

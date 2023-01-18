@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="1991" MadCap:lastWidth="1325" xml:space="preserve">
+    <head>
+    </head>
+    <map id="map1">
+        <area shape="rectangle" coords="75,126,181,180" title="砻קยด1ตว融" alt="砻קยด2ตว融" href="../CH2a.htm" target="_parent" tabindex="2" />
+        <area shape="rectangle" coords="189,127,354,180" title="砻קยด3ตว融" alt="砻קยด4ตว融" href="../C1/PDF/Topic2.htm#top" target="_parent" tabindex="3" />
+        <area shape="rectangle" coords="361,126,503,183" title="砻קยด5ตว融" alt="砻קยด6ตว融" href="#top" target="_parent" tabindex="4" />
+        <area shape="rectangle" coords="73,190,218,243" title="砻קยด7ตว融" alt="砻קยด8ตว融" href="#Heading" target="_parent" tabindex="5" />
+        <area shape="rectangle" coords="224,188,370,245" title="砻קยด9ตว融" alt="砻קยด10ตว融" href="#Heading" target="_parent" tabindex="6" />
+        <area shape="rectangle" coords="72,252,220,308" title="砻קยด11ตว融" alt="砻קยด12ตว融" href="file:///D:/TestProjects/LingoImport/Bookmarks.pdf#heading2" target="_parent" tabindex="7" />
+        <area shape="rectangle" coords="237,253,494,311" title="砻קยด13ตว融" alt="砻קยด14ตว融" href="http://www.youtube.com/" target="_parent" tabindex="8" />
+        <area shape="rectangle" coords="77,316,451,367" title="砻קยด15ตว融" alt="砻קยด16ตว融" href="mailto:rbutros@madcapsoftware.com?subject=This is the subject" target="_parent" tabindex="9" />
+        <area shape="rectangle" coords="77,374,272,422" title="砻קยด17ตว融" alt="砻קยด18ตว融" href="../Resources/CHMSupport/UseMe.chm::/07 Appendix-A.htm" target="_parent" tabindex="10" MadCap:conditions="Default.HTML5,Default.Web" />
+    </map>
+    <body>
+        <h1><a name="top"></a>砻קยด21ตว融</h1>
+        <p>砻קยด22ตว融</p>
+        <p>&#160;</p>
+        <h2>砻קยด23ตว融</h2>
+        <p>砻קยด24ตว融</p>
+        <h3><a name="Heading"></a>砻קยด25ตว融</h3>
+        <p>砻קยด26ตว融</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>砻קยด27ตว融</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>砻קยด28ตว融</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p>
+            <img src="../Resources/Images/ImageMapVector.pdf#1" title="砻קยด19ตว融" alt="砻קยด20ตว融" tabindex="1" usemap="#map1" />
+        </p>
+    </body>
+</html>

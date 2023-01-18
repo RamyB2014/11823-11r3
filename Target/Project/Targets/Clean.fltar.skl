@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="New Target" Type="CleanXHTML" Destinations="" GlossaryTermConversion="marked" GlossaryMasterPage="/Content/Resources/MasterPages/myMasterPage2.flmsp" UseLocalBuildSettings="true" ConvertStylesheetStylesToInlineStyles="false" MasterPage="/Content/Resources/MasterPages/myMasterPage2.flmsp">
+    <PrintedOutput CollapseMargins="true" GenerateTOCProxy="true" GenerateIndexProxy="true" GenerateGlossaryProxy="true" />
+</CatapultTarget>

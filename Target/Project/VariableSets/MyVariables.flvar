@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="CompanyName">MadCap Inc</Variable>
+  <Variable
+    Comment="MultiValued"
+    Name="PhoneNumber">123 456 7891</Variable>
+  <Variable
+    Name="Day"
+    Comment=""
+    Definition="Some text">Monday</Variable>
+  <Variable
+    Name="Employee"
+    Comment=""
+    Definition="Some text">Accountant</Variable>
+  <Variable
+    Name="Character"
+    Definition="Some text"
+    Comment="MultiValued">Garfield</Variable>
+  <Variable
+    Name="PhoneNumber"
+    Comment="Zeros!">00000000000</Variable>
+  <Variable
+    Name="PhoneNumber"
+    Comment="Ones!">11111111111</Variable>
+  <Variable
+    Name="PhoneNumber"
+    Comment="Twos!">22222222222</Variable>
+  <Variable
+    Name="Character"
+    Comment="dogVariable">Odie</Variable>
+  <Variable
+    Name="Character"
+    Comment="humanVariable">Jon Arbuckle</Variable>
+</CatapultVariableSet>

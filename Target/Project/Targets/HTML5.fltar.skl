@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="New Target" Type="WebHelp2" Destinations="" GlossaryTermConversion="marked" MasterToc="/Project/TOCs/Web.fltoc" Skin="/Project/Skins/TopNav.flskn" TargetLanguage="en-us" MinifyJavaScript="false" ServerEnabled="false" SearchEngine="GoogleSearch" GoogleSearchContextKey="002922245134156521394:brbwjxobrrq" EnableSitemap="false">
+    <PrintedOutput CollapseMargins="true" />
+</CatapultTarget>

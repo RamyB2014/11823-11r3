@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="ProjectX HTML5 Skin" Type="PDF" Destinations="" GlossaryTermConversion="marked" MasterStylesheet="/Content/Resources/Stylesheets/Styles.css" Medium="non-print" BrowseSequence="/Project/Advanced/NewSequence.flbrs" EnableFeedbackService="true" LiveHelpServer="http://ramr2/pulse" LiveHelpKey="yhnk1-pmbf8-dde35-341de-4483b-e8225-0ccac-f9e79" MasterToc="/Project/TOCs/Web.fltoc">
+    <PrintedOutput CollapseMargins="true" />
+    <PDF FullScreen="false" CollapsedBookmarks="true" PageLayout="TwoColumnRight" />
+</CatapultTarget>

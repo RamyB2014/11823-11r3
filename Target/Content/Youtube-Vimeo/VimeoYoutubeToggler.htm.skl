@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="7" MadCap:lastHeight="799" MadCap:lastWidth="1500" xml:space="preserve">
+    <head>
+    </head>
+    <body>
+        <h1>砻קยด3ตว融</h1>
+        <p><strong><MadCap:toggler targets="Youtube;Vimeo">砻קยด4ตว融</MadCap:toggler></strong></p>
+        <p MadCap:targetName="Youtube">砻קยด5ตว融<object title="砻קยด1ตว融" src="http://youtu.be/SI6PHhxHNNA" style="width: 560px;height: 315px;"></object></p>
+        <p MadCap:targetName="Vimeo"><strong><MadCap:toggler targets="Vimeo-movie">砻קยด6ตว融</MadCap:toggler></strong></p>
+        <p MadCap:targetName="Vimeo-movie">砻קยด7ตว融<object title="砻קยด2ตว融" src="http://vimeo.com/89944920" style="width: 560px;height: 315px;"></object></p>
+    </body>
+</html>
